@@ -28,7 +28,7 @@ function FormIndex() {
         placeholder="Enter Password"
         className="mb-4"
       ></InputIndex>
-      <ButtonIndex className="w-1/4" label="Sign Up"></ButtonIndex> 
+      <ButtonIndex className="w-1/2" label="Sign Up"></ButtonIndex>
     </div>
   );
 }
